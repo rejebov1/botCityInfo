@@ -1,0 +1,9 @@
+spring:
+ datasource:
+  sqlScriptEncoding: UTF-8
+ jpa:
+  open-in-view: false
+ h2:
+  console.enabled: true
+  console.path: /h2-console
+
